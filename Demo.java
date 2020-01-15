@@ -1,7 +1,5 @@
 import java.util.Date;
 
-import lava.util.ArrayList;
-
 public class Demo{
   
   private int a =10;
