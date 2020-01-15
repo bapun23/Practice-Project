@@ -1,4 +1,5 @@
 import java.util.Date;
+import lava.util.ArrayList;
 
 public class Demo{
   
@@ -8,9 +9,5 @@ public class Demo{
 public int m2(){
 return a+b;
 }
-  
-  public int m1(){
-    return a+b;
-  }
   
 }
