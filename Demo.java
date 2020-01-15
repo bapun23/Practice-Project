@@ -9,4 +9,8 @@ public int m2(){
 return a+b;
 }
   
+  public int m1(){
+    return a+b;
+  }
+  
 }
