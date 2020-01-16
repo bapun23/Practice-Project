@@ -18,7 +18,6 @@ System.out.println("Hello World");
 }
   
   public void m1(){
-    int x=0;
     System.out.println("Hi Himanshu");
   }
   
