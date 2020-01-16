@@ -11,4 +11,8 @@ public int m2(){
 return a+b;
 }
   
+  public void m1(){
+    System.out.println("Hi Himanshu");
+  }
+  
 }
